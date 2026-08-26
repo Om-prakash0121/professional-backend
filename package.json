@@ -1,0 +1,19 @@
+{
+  "name": "profeesional_backend",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Om Prakash Behera",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
