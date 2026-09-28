@@ -15,7 +15,7 @@ app.use(
 //Express should read JSON data sent by the client, but don't allow the JSON request body to be larger than 50 KB.
 app.use(
   express.json({
-    limit: "50kb",
+    limit: "500kb",
   })
 );
 
